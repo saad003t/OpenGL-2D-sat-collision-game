@@ -1,4 +1,4 @@
-\# 2D SAT Collision Tag Game (OpenGL / GLUT)
+### 2D SAT Collision Tag Game (OpenGL / GLUT)
 
 
 ## Overview
